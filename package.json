@@ -1,0 +1,14 @@
+{
+  "name": "module2",
+  "version": "1.0.0",
+  "description": "First NPM package",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "author": "AbiR",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  }
+}
